@@ -12,7 +12,7 @@ Revision: September 6, 2026. Chengdu added; Shanghai reduced to three nights; re
 | Dates / hotel booking | Nights | Plan |
 |---|---:|---|
 | Chongqing, Oct 10–14 | 4 | Arrival spectacle, stairs, Wulong, factory/theatre day |
-| Chengdu, Oct 14–16 | 2 | Arrival-day heritage and Sichuan theatre; pandas and contemporary Chengdu |
+| Chengdu, Oct 14–16 | 2 | One temple/tea block, face-changing theatre, pandas and Tower of Life |
 | Zhangjiajie, Oct 16–19 | 3 | Arrival-afternoon Grand Canyon; two full mountain days; Golden Whip departure morning |
 | Hangzhou, Oct 19–21 | 2 | Arrive by rail Monday evening; one concentrated full activity day |
 | Suzhou, Oct 21–22 | 1 | Gardens, canals and Night Garden without a late return to Shanghai |
@@ -26,8 +26,6 @@ The two Chengdu nights come from one Hangzhou night and one Shanghai night. Hang
 The old Saturday DYG–Hangzhou flight is not carried over to Monday. Use afternoon rail October 19 after Golden Whip; exact October trains must be secured before nonrefundable plans. Times below are local China time and include planning allowances, not live traffic predictions.
 
 ## How the votes were used
-
-For the three actual travelers, the working weight is **65% Hartek, 17.5% Daniel, 17.5% Xu**. Amy and Diana are ignored. This makes the trip distinctly Hartek-led while still protecting experiences the three of you strongly agree on.
 
 | Activity | H / D / X | Weighted priority | Treatment |
 |---|---:|---:|---|
@@ -53,7 +51,7 @@ Visible disagreements remain visible:
 - Bomb-shelter hotpot is much more Daniel/Xu than Hartek. It can be a quick meal, but it never gets to displace a show, attraction or club.
 - Hanfu is a genuine three-person consensus and receives a full production block rather than a quick costume rental.
 
-### Hotel picks — three per city, with a $350 ceiling
+### Hotel picks — three per city, plus a fourth Chongqing option, with a $350 ceiling
 
 **Hard limit: USD $350 per room per night, including mandatory taxes and fees.** Apply it to every night, not just the stay average. This replaces the earlier unlimited hotel budget. A suite or villa sold as one unit must also fit $350 total per night; do not divide an expensive villa's price by its bedrooms to make it appear eligible.
 
@@ -68,6 +66,8 @@ The previous ultra-luxury hotels and villa upgrades are removed from the lodging
 1. **[Indition High Altitude Hotel](https://www.trip.com/hotels/chongqing-hotel-detail-88308956/chongqing-indition-high-altitude-hotel/) — first choice for cyberpunk atmosphere.** Price ordinary river-view rooms first; the listing includes Peninsula and Crystal Corridor categories. Keep the 120 m² two-bedroom river-view duplex with king plus twins only if the entire unit fits $350. Drop the automatic crystal-pool upgrade. Best for vertical-city views and Chaotianmen access; service is more boutique than grand-hotel.
 2. **[Atour S Chongqing Jiefangbei Hongyadong Riverview](https://www.trip.com/hotels/chongqing-hotel-detail-71678942/atour-s-hotel-chongqing-jiefangbei-hongyadong-riverview/) — practical alternative with river-view potential.** Request one king and one twin, checking the view category explicitly. Strong fit for a day spent out in the city; less theatrical interiors than Indition.
 3. **[InterContinental Chongqing Raffles City](https://www.ihg.com/intercontinental/hotels/gb/en/chongqing/chghb/hoteldetail/rooms) — conditional landmark upgrade.** Check entry-level king/twin rooms against the cap; no automatic club, suite or premium river-view booking. Keep only if the final quote fits. The Raffles architecture is the attraction, and an ordinary room may be enough.
+
+4. **[SEYA Panoramic Hotel — Chongqing Jiefangbei Flagship](https://www.booking.com/hotel/cn/iseya-jiefangbei-chongqing-flagship.html) — additional high-altitude option.** Yingli IFC, 28 Minquan Road, reception on floor 58; not the Cloud Eye or Raffles Plaza branch. Compare its panoramic/window-side hot-tub rooms with Indition for October 10–14. Confirm three proper beds across the selected rooms, bathroom privacy, non-smoking status and any separate spa charge. Every room-night must remain within $350 including mandatory charges; exact-date availability and prices are unverified. Adding this option does not change the provisional hotel base or make a reservation.
 
 #### Zhangjiajie / Wulingyuan
 
@@ -155,7 +155,7 @@ Nightlife flavor: bottle-service mega-club or skyline bar
 
 Why this order: it protects Hartek’s highest Chongqing date-sensitive item. The city’s current pattern is Saturday shows around 20:30, but October’s official calendar is not published yet and weather can cancel it. Recheck in late September and on the afternoon itself.
 
-## Sunday, Oct 11 — stairs, monorail, old lanes, cableway, river theatre
+## Sunday, Oct 11 — stairs, monorail, old lanes, cableway, skyline cruise
 
 Sleep: Indition  
 Guest character: same Chongqing guide, 08:00–00:30  
@@ -173,7 +173,7 @@ Nightlife flavor: underground event or Deyi World
 | 17:15–18:15 | Descend/drive to Shangxin Street station. |
 | 18:30–19:15 | **Yangtze cableway south-to-north**, after the lights come on. Reserve through the official channel and retain queue time. |
 | 19:20–20:40 | Hongyadong, Daijiaxiang and Qiansimen Bridge night views. |
-| 21:00–22:15 | Premium Two Rivers cruise, ideally open upper deck or the “moving river theatre” vessel. Confirm the exact pier. |
+| 21:00–22:15 | Two Rivers sightseeing cruise, ideally with open upper-deck access. Choose skyline viewing, not an additional theatre package; confirm the exact pier. |
 | 22:30–late | Deyi World or the best underground electronic event the guide finds that week. |
 
 This is an intentionally long day. The Huangge climb is the first cut if cableway queues threaten the night sequence.
@@ -182,7 +182,7 @@ This is an intentionally long day. The Huangge climb is the first cut if cablewa
 
 Sleep: Indition  
 Guest character: same Chongqing guide plus licensed driver  
-Nightlife flavor: recovery massage unless the show is skipped  
+Nightlife flavor: recovery massage and optional skyline drinks
 
 | Time | Agenda |
 |---|---|
@@ -191,13 +191,13 @@ Nightlife flavor: recovery massage unless the show is skipped
 | 09:30–12:15 | Three Natural Bridges. Use the full walking route. |
 | 12:15–13:00 | Shuttle and fast lunch. |
 | 13:15–15:45 | Longshuixia Gorge. |
-| 16:00–18:00 | Reset, early dinner and transfer toward the theatre if the October show is operating. |
-| About 20:30–21:40 | **Recommended chaos upgrade: Impression Wulong**, the large outdoor production, if its October time is confirmed. |
-| 21:45–about 00:30 | Private-car return to Chongqing. |
+| 16:00–about 19:00 | Private-car return to Chongqing; allow traffic. No evening-show wait in Wulong. |
+| 19:00–20:00 | Dinner and hotel change. |
+| 20:00 onward | Optional paid massage and skyline drinks; no fixed performance booking. |
 
-If Impression Wulong is dark or weather-risky, leave at 16:00, reach the hotel around 19:00, then do a serious massage and optional skyline drinks. A reservation helicopter from Wulong South has been marketed, but it is only a bonus if the operator reconfirms foreign-passport eligibility, luggage, insurance and weather rules.
+Impression Wulong is removed: Hangzhou supplies the trip's large scenic production, and the earlier return protects energy after both karst walks. A reservation helicopter from Wulong South has been marketed, but it is only a bonus if the operator reconfirms foreign-passport eligibility, luggage, insurance and weather rules.
 
-## Tuesday, Oct 13 — factory China, botanical mall, revolutionary theatre, imperial theatre
+## Tuesday, Oct 13 — factory China, botanical mall and revolutionary theatre
 
 Sleep: Indition  
 Guest character: same Chongqing guide returns for the appointment/theatre day  
@@ -210,14 +210,16 @@ Nightlife flavor: Nine Street, hip-hop or luxury KTV
 | 11:15–12:30 | The Ring Mall and its seven-storey indoor botanical environment; upscale window-shopping, not a generic mall errand. |
 | 12:30–13:15 | Fast lunch/drive. |
 | 13:15–15:15 | Ciqikou. Keep moving; this is context for the theatre rather than a shopping afternoon. |
-| 15:30–17:15 | **Chongqing 1949**, rotating/VIP section with English translation device. Exact October performance time is still provisional. |
-| 17:15–18:00 | Drive to Qingyu and costume preparation. |
-| 19:00–20:30 | **Qingyu imperial banquet**, first-row/SVIP with full costume, hair and makeup. Treat it as immersive theatre; the food is incidental. |
+| 15:30–17:15 | **Chongqing 1949**, rotating/VIP section. Request a synopsis and confirm whether English translation equipment is available; exact October performance time is provisional. |
+| 17:15–18:30 | Return to hotel and change, allowing traffic. |
+| 18:30–20:30 | Dinner and flexible city time; no second required show. |
 | 21:00–late | Nine Street: hip-hop/social bar, luxury KTV or whichever Chongqing nightlife category is still missing. |
 
 Booking contact: the [official program notice](https://www.ljxq.gov.cn/zwxx/ljyw/202605/t20260515_15680409.html) gives **+86 177 8356 8684** for group appointments. Ask the guide to confirm three foreign tourists, private visit versus joining a group, actual production access, passport requirements and interpreter permission. If declined, expand The Ring/Ciqikou; do not pay a broker for an unconfirmed factory visit.
 
-Schedule repair: if Chongqing 1949 only has a 19:30 show, move Qingyu to its lunch session, put Ciqikou before 1949 and cut either Changan or The Ring only if the appointment forces it. Changan is the harder-to-replace experience.
+Schedule repair: if Chongqing 1949 only has a 19:30 show, retain the daytime route, have an early dinner near the theatre and move or shorten nightlife afterward. Changan remains subject to appointment approval.
+
+**Optional only: Qingyu imperial banquet.** Keep it off the booking list unless the group explicitly wants the costume-and-court-dinner experience in addition to Hanfu photography. It replaces the free evening, not an extra layer on top; confirm the complete dining/performance duration, styling time and transfers before accepting a slot. Skip it if it conflicts with 1949. No automatic lunch-session substitution.
 
 ## Wednesday, Oct 14 — Chengdu arrival, living heritage and face-changing theatre
 
@@ -231,11 +233,9 @@ Nightlife flavor: Sichuan stage spectacle, optional central-city cocktails
 | About 08:00–10:00 | HSR to Chengdu East; select a service meeting this arrival target. |
 | 10:00–11:00 | Transfer to Niccolo/central hotel, leave bags and have a quick meal. |
 | 11:00–11:30 | Drive to Wenshu area. |
-| 11:30–13:30 | Wenshu Monastery and Wenshufang lanes: temple context with your guide, neighborhood wandering and tea. |
-| 13:30–14:00 | Transfer to People's Park. |
-| 14:00–15:15 | People's Park and Heming Teahouse: watch and join everyday tea culture rather than turn this into a food tour. |
-| 15:15–16:00 | Transfer to hotel and check in. |
-| 16:00–17:00 | Hotel change and short Chunxi/IFS city walk. The rooftop panda is an optional photo if access/queues permit; no scheduled shopping circuit. |
+| 11:30–14:00 | **One temple/tea block: Wenshu Monastery, Wenshufang lanes and tea nearby.** No second temple or separate teahouse detour. |
+| 14:00–15:00 | Quick lunch and transfer to hotel. |
+| 15:00–17:00 | Check in and change; optional short central-city walk, not another required attraction or shopping circuit. |
 | 17:00–18:00 | Drive to Qintai Road and quick dinner. |
 | 18:00–19:15 | Qintai streetscape and theatre arrival; confirm whether any backstage/costume experience is actually included. |
 | About 20:00–21:30 | **Shufeng Yayun: Sichuan opera variety show and face-changing.** Book a good sightline and translated synopsis; exact October session must be confirmed. |
@@ -243,30 +243,29 @@ Nightlife flavor: Sichuan stage spectacle, optional central-city cocktails
 
 This is a local variety-performance experience, not a replacement three-hour opera. Book through [Shufeng Yayun's official site](https://cdsfyy.com/) or a reputable ticket platform; the commonly listed 20:00–21:30 session is provisional for October 14. No backstage access is assumed.
 
-## Thursday, Oct 15 — pandas, old Chengdu and industrial nightlife
+## Thursday, Oct 15 — pandas and Tower of Life after dark
 
 Sleep: same Chengdu hotel  
 Guest character: guide and driver for the morning; evening host by agreement  
-Nightlife flavor: music/event-led night at Eastern Suburb Memory
+Nightlife flavor: illuminated fountain architecture at Chengdu SKP
 
 | Time | Agenda |
 |---|---|
 | 06:15–07:15 | Drive to Chengdu Research Base of Giant Panda Breeding; select the gate and entry slot together with your guide. |
-| First admission–10:30 | **Panda Base**, with time for walking between enclosures. See the animals available that day; do not build around one celebrity panda or an animal-contact experience. |
-| 10:30–11:30 | Drive to Wuhou Shrine area; allow longer if traffic requires. |
-| 11:30–12:15 | Quick lunch. |
-| 12:15–14:15 | Wuhou Shrine with Three Kingdoms context, then a short Jinli lane walk. |
-| 14:15–15:00 | Return to hotel. |
-| 15:00–16:00 | Paid massage or hotel reset; prepare bags for tomorrow's early train. |
-| 16:00–17:00 | Drive to Eastern Suburb Memory. |
-| 17:00–19:00 | **Eastern Suburb Memory / Dongjiao Jiyi:** former electronics-factory buildings, creative spaces and that day's exhibits or pop-ups. |
-| 19:00–20:00 | Quick dinner and event check-in. |
-| 20:00–22:00 | A live set or electronic event if a suitable Thursday bill is published; otherwise explore the lit district and have drinks. No specific concert is assumed booked. |
-| 22:00–23:00 | Return to hotel; tomorrow's 06:15 departure is fixed. |
+| First admission–11:30 | **Panda Base**, with time for walking between enclosures. See the animals available that day; do not build around one celebrity panda or an animal-contact experience. |
+| 11:30–13:15 | Exit, quick lunch and drive back to central hotel. |
+| 13:15–15:30 | Flexible hotel time or optional paid massage; prepare bags for tomorrow. No Wuhou/Jinli or extra museum commitment. |
+| 15:30–16:45 | Drive south to Chengdu SKP, allowing traffic. |
+| 16:45–18:15 | SKP's landscaped park and sunken architecture in daylight; a brief SKP-S look only if interested. This is architectural spectacle, not a shopping assignment. |
+| 18:15–19:00 | Quick dinner nearby while waiting for darkness. |
+| 19:00–20:15 | **Tower of Life / 生机之塔:** the fountain-and-light sculptures above SKP-S. Confirm that evening's water/lighting operation; this is a viewing window, not a published showtime. |
+| 20:15–21:30 | Return to hotel; optional nearby drink only if desired. Tomorrow's 06:15 departure is fixed. |
 
-Use the [Panda Base's official ticket and passport guidance](https://www.panda.org.cn/en/service/ticket/); confirm October opening and gate rather than assuming 07:00 entry. If opening is later, keep the panda block and shorten Jinli. [Eastern Suburb Memory overview](https://www.travelchina.org.cn/en/article/bjBx4cx2mvo7).
+Use the [Panda Base's official ticket and passport guidance](https://www.panda.org.cn/en/service/ticket/); confirm October opening and gate rather than assuming 07:00 entry. Tower of Life is at **Chengdu SKP**, not the Panda Base's Panda Tower. The [lighting designer describes six water-and-light sculptures](https://smlightarchitecture.com/projects/2979/skp). No October fountain operating schedule is verified. If water is off, the architecture is still there, but do not promise the full effect.
 
-**Sanxingdui alternative:** if archaeological spectacle beats pandas for the group, replace the panda/Wuhou/Jinli blocks with 07:30–09:00 drive to Guanghan, 09:00–13:00 guided [Sanxingdui Museum](https://www.sxd.cn/index.asp), lunch and 14:00–15:30 return. Confirm timed entry and allow 60–90 minutes each way. Keep the evening. Do not promise pandas, Sanxingdui and the full city circuit on the same day. Chengdu additions are editorial suggestions, not newly scored votes.
+**Chengdu's four priorities:** pandas, one temple/tea block, face-changing theatre and Tower of Life. Two nights cover an arrival afternoon plus one full day, not two full sightseeing days. Wuhou/Jinli, Eastern Suburb Memory and Sanxingdui are not part of this tightened agenda. The flexible blocks are deliberate; do not refill them with more temples or shows. Chengdu additions are editorial suggestions, not newly scored votes.
+
+**Optional architectural extension: Jiaozi Pedestrian Bridge / 交子人行桥.** This landscaped pedestrian bridge crosses the Jinjiang between the east and west parts of Jiaozi Park; do not confuse it with the circular Jiaozi Ring road-crossing structure. It can complement SKP as a southern-Chengdu architecture evening without adding another day. If selected, shorten the SKP daylight browsing, see Tower of Life around 19:00–19:40, allow an estimated 20–30 minutes by car to the bridge, walk roughly 20:10–20:50, then return to the hotel. Verify pickup points and driving time with the guide; bridge lighting/water effects are not guaranteed, and tomorrow's early train takes priority. [Designer-supplied project description](https://www.gooood.cn/landscape-design-of-the-jiaozi-pedestrian-bridge-park-in-chengdu-by-yudao-landscape-design.htm)
 
 ## Friday, Oct 16 — Chengdu to Zhangjiajie, Grand Canyon afternoon
 
@@ -282,7 +281,7 @@ Guest character: Zhangjiajie guide and driver meet the train
 | 13:45–17:30 | **Grand Canyon and Glass Bridge**, then the confirmed canyon walking/boat route. Bungee is conditional on an advance slot and enough time for the remaining route; do not stack all zipline/slide add-ons. |
 | 17:30–18:45 | Drive to ZiShan and check in. |
 | 19:00–20:00 | Dinner. |
-| Evening | Hotel tea/drinks. Charming Xiangxi moves to Saturday to avoid coupling a train, bungee and fixed show time. |
+| Evening | Hotel tea/drinks; no fixed performance after the train and canyon. |
 
 This afternoon depends on the early train and the operator confirming that your selected entry/exit route fits its October last services. If late, shorten to the bridge/approved short route or substitute Golden Whip; do not assume admission guarantees time for every add-on. **Bungee is no longer guaranteed in the main plan.**
 
@@ -299,9 +298,9 @@ Guest character: licensed park guide plus driver
 | 11:00–12:30 | Bus connections toward Tianzi and portable lunch. No optional Yangjiajie detour. |
 | 12:30–15:15 | **Tianzi Mountain:** Helong Park, Imperial Brush Peaks, Fairy Offering Flowers and viewpoints. |
 | 15:15–17:00 | Cableway/bus descent to East Gate before last services; meet driver. |
-| 17:00–18:30 | Dinner in Wulingyuan and show check-in. |
-| Confirmed evening session | Charming Xiangxi; book only after matching the park exit and theatre time. |
-| After show | Driver back to ZiShan; allow roughly 30–45 minutes depending on pickup/location. |
+| 17:00–18:30 | Dinner in Wulingyuan. |
+| 18:30–19:15 | Driver back to ZiShan; allow roughly 30–45 minutes depending on pickup/location. |
+| Evening | Hotel tea, drinks or an optional paid massage. No Charming Xiangxi booking. |
 
 Saturday crowds merit generous queue time. Protect the two main mountain areas and skip side branches before threatening descent transport.
 
@@ -376,12 +375,12 @@ Guest character: heritage guide meets the train
 | 13:45–14:15 | Transfer to Shantang. |
 | 14:15–15:15 | **Shantang canal boat**, exact pier/service confirmed. |
 | 15:15–15:45 | Transfer to Pingjiang Road. |
-| 15:45–17:15 | Canal lanes and a short Pingtan set; embroidery demonstration only if the timing fits, not a separate guaranteed appointment. |
+| 15:45–17:15 | Pingjiang canal lanes and tea; embroidery demonstration only if the timing fits, not a separate guaranteed appointment. No separate Pingtan booking. |
 | 17:15–18:15 | Quick dinner and transfer toward Master of the Nets. |
 | 18:25–20:45 | **Master of the Nets Night Garden**, reserving an actual session/entry time. |
 | 20:45–21:30 | Return to hotel and pack; no late Shanghai commute. |
 
-The retained [official Night Garden listing](https://visitsz.wglj.suzhou.com.cn/news-detail.aspx?id=2829) gives an evening operating window, not a guarantee of your tour's start time. Reconfirm for October 21. Suzhou Museum is removed to protect the Shanghai arrival day.
+The retained [official Night Garden listing](https://visitsz.wglj.suzhou.com.cn/news-detail.aspx?id=2829) gives an evening operating window, not a guarantee of your tour's start time. Reconfirm the October 21 program, including whether Pingtan is included. A separate Pingtan set is only an opt-in swap for afternoon wandering if the group wants more depth, not another default reservation. Suzhou Museum is removed to protect the Shanghai arrival day.
 
 ## Thursday, Oct 22 — Shanghai arrival, tailoring option, Hanfu and the Bund
 
@@ -405,6 +404,8 @@ Nightlife flavor: Bund rooftop or jazz
 | 22:00 onward | Optional extra bar, otherwise return. Friday/Saturday are the main club nights. |
 
 Hanfu stays the anchor. If rail/traffic delays the arrival, drop tailoring first. This removes Zhangyuan/The Louis and avoids repeated luxury-store circuits.
+
+**Optional 24-hour mega-spa evening: Shuiguo / 水裹汤泉, Wujiaochang branch.** A well-publicized Shanghai bathhouse combining bathing/sauna, lounges, food and entertainment, rather than a quiet hotel massage room. The [city's April 2026 coverage](https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260421/7b108876c4b54081a29f2aec3e8616d1.html) describes the branch as a 24-hour spa and reports roughly RMB300 for packages lasting 8–16 hours; this is not a verified October quote or a 24-hour admission entitlement. Best itinerary fit: replace tonight's rooftop/jazz and extra bar with a 3–4-hour visit, allowing separate cross-city transfers and returning to the booked hotel. Do not stack it after clubs or treat it as a hotel replacement. Confirm exact branch/address, passport admission, current opening hours, package duration, bathing etiquette, food-service hours, massage/body-scrub charges and overnight surcharges before purchase. No spa booking or nightlife replacement is assumed yet.
 
 ## Friday, Oct 23 — French Concession, one Nanjing Road pass, Pudong and clubs
 
@@ -486,10 +487,10 @@ Queer-specific routing is intentionally omitted. For every club, reconfirm passp
 Do not hire one anonymous interpreter for the entire trip. Use a recurring Chongqing personality, then local specialists whose actual knowledge matters:
 
 - **Chongqing recurring character:** Oct 10 or 11, Oct 12 and Oct 13. Young, socially comfortable, willing to stay late, capable of factory negotiation and happy to enter bars. Plausible lead: [Isa Z on ToursByLocals](https://www.toursbylocals.com/tour-guides/china/chongqing/guide-profile/isa-z-69aaa4c0413285e078209acd).
-- **Chengdu local host:** Oct 14–15. Wenshu/teahouse context, Sichuan theatre, panda-gate logistics and a current music/event shortlist.
+- **Chengdu local host:** Oct 14–15. One Wenshu/tea block, Sichuan theatre, panda-gate logistics and confirmation of SKP Tower of Life water/lighting operation.
 - **Zhangjiajie operator:** Oct 16–19. Licensed park guide who understands gates, weather, waivers, cableway construction and drivers.
 - **Hangzhou cultural producer:** Oct 20. Tea-family access, temple context, guqin sourcing and a concise show synopsis.
-- **Suzhou heritage specialist:** Oct 21 through Night Garden. Gardens, boat, Pingtan and embroidery.
+- **Suzhou heritage specialist:** Oct 21 through Night Garden. Gardens, boat, canal context and optional embroidery; verify the Night Garden program without adding a separate Pingtan booking.
 - **Shanghai host/nightlife fixer:** optional Oct 22 arrival coordination; evenings Oct 23–24. Hanfu, optional tailoring, KTV and current music/table reservations.
 
 The booking brief should state:
@@ -511,7 +512,7 @@ Daniel and Xu’s partial Chinese will make the dynamic more fun, but it is not 
 1. Hold refundable hotels for the exact intervals in the route table. Default: one king plus one twin room, each at most $350 per night after mandatory charges. Chengdu's Niccolo and all other names are candidates, not verified October quotes.
 2. Establish an acceptable October 16 Chengdu–Zhangjiajie train and October 19 Zhangjiajie–Hangzhou routing. October rail inventory is not open yet; a platform pre-order is not an issued ticket.
 3. Hire local guides/drivers, with explicit overtime and no forced shopping. Ask the Chongqing guide to call Changan's group-booking contact before treating that activity as real.
-4. Reserve Shufeng Yayun October 14, panda admission October 15, the revised Zhangjiajie dates, Enduring Memories October 20, Night Garden October 21 and Hanfu October 22 as their booking windows allow.
+4. Reserve Chongqing 1949 October 13, Shufeng Yayun October 14, panda admission October 15, the revised Zhangjiajie dates, Enduring Memories October 20, Night Garden October 21 and Hanfu October 22 as their booking windows allow. No Impression Wulong or Charming Xiangxi tickets; Qingyu and standalone Pingtan require a separate opt-in.
 5. Book KTV for October 24 and choose October 23–24 club events close to travel. No Tosca tickets, luxury shopping appointments or old October 17 flight are needed.
 
 No reservations or cancellations have been made. If any earlier bookings already exist, check their cancellation terms before changing them.
@@ -533,7 +534,7 @@ Use all three passport names exactly. Book every leg of a connecting itinerary a
 ### Venue and driver checks
 
 - Zhangjiajie: Oct 16 afternoon canyon last entry/last exit and bungee slot; Oct 17 park gates/transports; Oct 18 Tianmen construction route; Oct 19 Golden Whip opening and exit-bus timing.
-- Drivers: retain secure luggage space on Oct 16 and 19; arrange transport back to ZiShan after evening shows. For Wulong's very long day, request an operator-approved driver-rest/relief arrangement.
+- Drivers: retain secure luggage space on Oct 16 and 19; arrange the ZiShan return after 72 Qilou. Wulong now returns around 19:00 rather than after midnight; still confirm adequate driver rest for the long excursion.
 - Hangzhou: Oct 19 late arrival, Oct 20 teacher/tea-family appointments and show weather; no guaranteed next-night retry.
 - Suzhou: actual Night Garden start/entry time and boat pier. No museum booking needed.
 - Shanghai: Hanfu studio location, garden photography permission, three men's sizes/styling, photo delivery terms; KTV English songs, room fee, drinks and any minimum spend.
@@ -545,17 +546,19 @@ Use all three passport names exactly. Book every leg of a connecting itinerary a
 Zhangjiajie is now tighter, not weather-proof:
 
 - October 16 afternoon: Grand Canyon, only if train arrival and operating hours support it.
-- October 17 and 18: swap Wulingyuan peaks and Tianmen according to visibility. Move the relevant show/72 Qilou with the geography, not independently.
+- October 17 and 18: swap Wulingyuan peaks and Tianmen according to visibility. Keep 72 Qilou with the downtown Tianmen day, not independently.
 - October 19 morning: Golden Whip, with an exit cutoff protecting the train.
 - If October 16 canyon is canceled, do Golden Whip then. October 19 may then support a short bridge-only visit if confirmed opening, road time and station buffer fit; do not promise the full canyon/bungee package.
 - If a whole mountain day is lost, one of the core sights may be lost. Recovering a full day requires an explicit decision to shorten Hangzhou/Suzhou; no hidden rescue day exists.
-- The first optional cuts are bungee, 72 Qilou and Charming Xiangxi. Huangshizhai, Huanglong Cave, Yangjiajie and Qixing via ferrata are already outside the base plan.
+- The first optional cuts are bungee and 72 Qilou. Charming Xiangxi, Huangshizhai, Huanglong Cave, Yangjiajie and Qixing via ferrata are already outside the base plan.
 - Outside Zhangjiajie, choose indoor cultural time for rain rather than forcing unsafe walks. The lake show, outdoor viewpoints and rooftop plans remain weather-dependent.
 
 ## Deliberate omissions and swaps
 
+- **Four anchor shows only:** Chongqing 1949 for narrative/stage engineering, Shufeng Yayun for performer skill and face-changing, Enduring Memories for lake spectacle, and Master of the Nets Night Garden for intimate garden performances. Impression Wulong and Charming Xiangxi are removed to reduce repeated revue/spectacle evenings. Qingyu is opt-in; standalone Pingtan is not prebooked. Temple/tea time, guqin and Hanfu remain distinct participatory cultural experiences.
+
 - **Removed at Hartek's request:** Tomorrowland, Zhangyuan/The Louis block, repeated Nanjing technology shopping, West Bund designer-store circuit and Tosca.
-- **Chengdu:** added for two nights; Sanxingdui is an explicit alternate to the panda/city day, not an extra promise.
+- **Chengdu:** two nights for four priorities only: pandas, one temple/tea block, face-changing and SKP Tower of Life. No additional temple, museum or industrial-district circuit.
 - **Hangzhou:** one full day; no North Peak climb, standalone Yue Opera evening or resort-spa afternoon.
 - **Suzhou:** overnight retained for the canal/garden evening; museum and repeated Panmen dawn visit removed.
 - **Shanghai tailoring:** optional, and shipping may be needed. No multiple-day schedule built around producing a rush suit.
@@ -568,8 +571,7 @@ New route/Chengdu checks were made September 6; unchanged links below are retain
 
 - [Chengdu Panda Base official tickets and entry guidance](https://www.panda.org.cn/en/service/ticket/)
 - [Shufeng Yayun official website](https://cdsfyy.com/)
-- [Sanxingdui Museum official website](https://www.sxd.cn/index.asp)
-- [Eastern Suburb Memory overview](https://www.travelchina.org.cn/en/article/bjBx4cx2mvo7)
+- [Chengdu SKP Tower of Life lighting design](https://smlightarchitecture.com/projects/2979/skp)
 - [Chengdu–Zhangjiajie current direct train listing](https://www.trip.com/trains/china/route/chengdu-to-zhangjiajie/)
 - [Qunar Zhangjiajie–Hangzhou timetable evidence](https://train.qunar.com/train/tickets/zhangjiajiexi-to-hangzhoudong)
 - [Shanghai History Museum official tourism listing](https://www.meet-in-shanghai.net/en/museums/shanghai-history-museum-shanghai-revolution-museum-230998/)
