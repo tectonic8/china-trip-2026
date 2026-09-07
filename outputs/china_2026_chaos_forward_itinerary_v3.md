@@ -1,5 +1,27 @@
 # China 2026: the chaos-forward field plan — Chengdu revision
 
+## Day-by-day summary
+
+- **Fri, Oct 9:** Fly toward Chongqing.
+- **Sat, Oct 10:** Arrive in Chongqing, explore Raffles and Huguang Guild Hall, enjoy dinner and skyline drinks, and catch the drone show if confirmed before an optional late club night.
+- **Sun, Oct 11:** Walk Chongqing's old-city stairs and Longmenhao/Xiahaoli lanes, ride the Liziba monorail and night cableway, climb Huangge toward Laojundong, and finish with river views, dinner and optional cruising or nightlife.
+- **Mon, Oct 12:** Visit Wulong's Three Natural Bridges and Longshuixia Gorge, then return to Chongqing for dinner and optional massage or skyline drinks.
+- **Tue, Oct 13:** Explore Jiefangbei, Kuixinglou, Daijiaxiang, The Ring and Ciqikou, see Chongqing 1949, and finish with dinner and optional Nine Street nightlife.
+- **Wed, Oct 14:** Take a Chengdu day trip for pandas, a proper Sichuan lunch, Jiaozi Pedestrian Bridge and Tower of Life, returning late to the same Chongqing hotel.
+- **Thu, Oct 15:** Take a later train to Zhangjiajie, settle into the mountain hotel, and enjoy dinner and an early night.
+- **Fri, Oct 16:** Spend the day at Zhangjiajie Grand Canyon and Glass Bridge, with bungee if booked and operating, followed by dinner and hotel downtime.
+- **Sat, Oct 17:** Ascend by Bailong Elevator, explore Yuanjiajie and Tianzi Mountain, and return via the park transport network for dinner in Wulingyuan.
+- **Sun, Oct 18:** Explore Tianmen Mountain's operating stairways and cliff paths, visit 72 Qilou for evening architecture and lights if time permits, and return to the mountain hotel.
+- **Mon, Oct 19:** Walk Golden Whip Stream with a strict exit cutoff, then take the afternoon train to Hangzhou and check in late.
+- **Tue, Oct 20:** Visit Lingyin and Feilai Feng, walk Longjing/Nine Creeks tea country, enjoy a tea-family lunch and tasting, learn guqin, and finish at West Lake with Enduring Memories if operating.
+- **Wed, Oct 21:** Travel to Shanghai, consider a tailoring consultation, enjoy the group Hanfu photoshoot, and finish with Shanghainese dinner, the Bund and rooftop drinks or jazz.
+- **Thu, Oct 22:** Day-trip to Suzhou for Panmen, Lingering Garden, a Shantang canal boat, Pingjiang Road, dinner and Master of the Nets Night Garden, returning late to Shanghai.
+- **Fri, Oct 23:** Explore the French Concession and Nanjing Road, visit Oriental Pearl and Shanghai Tower, enjoy dinner and Flair rooftop, and finish at INS Land.
+- **Sat, Oct 24:** Explore old-city lanes or attend a tailor fitting, visit People's Park and Shanghai History Museum, walk Xintiandi, and finish with dinner, private KTV and final-night music or clubbing.
+- **Sun, Oct 25:** Have breakfast, transfer to the confirmed Shanghai departure airport, and take the 13:15 flight.
+
+## Trip details
+
 Trip dates: October 9–25, 2026  
 Travelers: Hartek, Daniel, and Xu  
 Hard constraints: arrive Chongqing at 10:00 on October 10; depart Shanghai at 13:15 on October 25; lodging ≤ USD $350 per room per night including mandatory taxes/fees  
